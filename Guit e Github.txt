@@ -1,0 +1,16 @@
+windows 
+cd = navegue entre as pastas
+dir = listar
+mkdir = criar pasta
+del/rmdir
+cls = limpar
+echo = printa um nome 
+echo hello> hello.txt
+del = deleta
+
+Unix
+cd = navegue entre as pastas
+ls = listar
+mkdir
+rm-rf
+clear = limpar
